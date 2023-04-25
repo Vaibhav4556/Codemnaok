@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
-import MouseHover from './MouseHover';
-import TwoQuadrant from './TwoQuadrant';
+// import MouseHover from './MouseHover';
+// import TwoQuadrant from './TwoQuadrant';
 import FourQuadrant from './FourQuadrant';
 
 function App() {
